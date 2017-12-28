@@ -15,4 +15,19 @@ int main(){
 	}
 
 
+
+	while(true){
+	int opcao = 0;
+		printf("  ++++ MENU ++++");
+		printf("\n");
+		printf("Selecone a opcao:\n");
+		print("1 - ok");
+		print("2 - top");
+
+		scanf(%d,opcao);
+
+	
+	}
+
+
 }
